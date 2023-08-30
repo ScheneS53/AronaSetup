@@ -1,6 +1,6 @@
 <?
 
- $versioncode = "2";
+ $versioncode = "1";
 if($_GET["v"]) {
   $currentversion = $_GET["v"];
 
